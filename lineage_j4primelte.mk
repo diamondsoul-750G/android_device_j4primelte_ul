@@ -37,7 +37,7 @@ PRODUCT_MODEL := Galaxy J4+
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 TARGET_VENDOR := samsung
 TARGET_VENDOR_PRODUCT_NAME := j4primelte
-PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="j4primeltedx-user 9 PPR1.180610.011 J415FXXU2BSDM release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="j4primeltedx-user 12 SQ3A.220705.004 J415FXXU6BWH5 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "samsung/j4primeltedx/j4primelte:9/PPR1.180610.011/J415FXXU2BSDM:user/release-keys"
+BUILD_FINGERPRINT := "samsung/j4primeltedx/j4primelte:12/SQ3A.220705.004/J415FXXU6BWH5:user/release-keys"
